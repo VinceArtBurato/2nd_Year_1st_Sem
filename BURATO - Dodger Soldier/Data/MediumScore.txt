@@ -1,0 +1,14 @@
+Level-3 261
+Level-4 355
+Level-2 172
+Level-4 369
+Level-6 753
+Level-3 186
+Level-8 1224
+Level-4 367
+Level-6 677
+Level-2 115
+Level-2 116
+Level-3 189
+Level-5 614
+Level-1 28

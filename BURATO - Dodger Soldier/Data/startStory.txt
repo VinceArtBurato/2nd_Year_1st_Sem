@@ -1,0 +1,8 @@
+DODGER SOLDIER
+
+How to Play:
+
+1. Hold A or left arrow key to run to the left.
+2. Hold D or right arrow key to run to the right.
+3. Dodge the falling bullet.
+4. Catch the falling medicine.
